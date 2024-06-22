@@ -1,0 +1,17 @@
+{
+    "filtros": [
+        {
+            "tipo": "Tipo",
+            "instancias": [
+                {
+                    "nome": "Publicada"
+                },
+                {
+                    "nome": "Rascunho"
+                }
+            ]
+        }
+    ]
+    
+}
+

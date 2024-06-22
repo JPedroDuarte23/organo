@@ -1,0 +1,23 @@
+{
+    "filtros": [
+        {
+            "tipo": "cidade",
+            "instancias": [
+                {
+                    "nome": "São Paulo - SP"
+                },
+                {
+                    "nome": "Rio de Janeiro - RJ"
+                },
+                {
+                    "nome": "Salvador - BH"
+                },
+                {
+                    "nome": "Brasília - GO"
+                }
+            ]
+        }
+    ]
+    
+}
+
